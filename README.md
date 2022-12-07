@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  store sales review            |  This repository is about some analysis on the data using the criteria-revenue, sale and price list.            |https://github.com/kwasiasomani/Store-sales-review        |
+| 2 | Machine Learning algorithm           | This repository is about using stochastic descent gradient to validate and assess the accuracy of the model         | https://github.com/kwasiasomani/Machine-Learning-algorithm     |
+| 3 | Unsupervised Learning            | This repository talks about the definition, examples, advantages and the machine learning algorithm used in unsupervised model.            | https://github.com/kwasiasomani/Unsupervised-Learning      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
@@ -71,3 +71,5 @@ tests/test_readme_table.py::test_contains_table PASSED                          
 ================================================== 3 passed in 0.000s ==================================================
 
 ```
+
+## My 3 repositories has been created
